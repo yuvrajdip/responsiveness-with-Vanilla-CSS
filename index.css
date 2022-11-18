@@ -28,6 +28,7 @@ body {
 }
 
 .text {
+  width: 50%;
   align-self: center;
   max-height: 75%;
   text-align: justify;
@@ -38,8 +39,9 @@ body {
 }
 
 .image {
-  width: 60%;
-  max-width: 60%;
+  width: 50%;
+  /* width: 60%;
+  max-width: 60%; */
   min-width: 250px;
 }
 
